@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alho.fi/kertoo/</loc>
+    <loc>https://kertoodesign.fi/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://alho.fi/kertoo/categories/</loc>
+    <loc>https://kertoodesign.fi/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://alho.fi/kertoo/meist%C3%A4/</loc>
+    <loc>https://kertoodesign.fi/meist%C3%A4/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://alho.fi/kertoo/tags/</loc>
+    <loc>https://kertoodesign.fi/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://alho.fi/kertoo/yhteys/</loc>
+    <loc>https://kertoodesign.fi/yhteys/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
